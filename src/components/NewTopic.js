@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import './App.css';
+import '../styles/NewTopic.css';
 
 const NewTopic = () => {
   const [title, setTitle] = useState('');

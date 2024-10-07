@@ -1,0 +1,38 @@
+.forum-home {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .topics-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .topics-list li {
+    margin-bottom: 15px;
+  }
+  
+  .topics-list li h2 {
+    margin: 0;
+    font-size: 20px;
+  }
+  
+  .topics-list li p {
+    margin: 5px 0;
+    color: #666;
+  }
+  
+  .new-topic-button {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  
+  .new-topic-button:hover {
+    background-color: #45a049;
+  }
+  
